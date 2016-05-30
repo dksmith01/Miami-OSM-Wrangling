@@ -1,0 +1,11 @@
+Sources for P3
+
+- Standard address abbreviations (http://www.semaphorecorp.com/cgi/abbrev.html)
+- MongoDB/Python help (http://www.informit.com/articles/article.aspx?p=2246943)
+- Stack Overflow for help with replacing just the street name, and not other parts of the address name string (http://stackoverflow.com/questions/3675318/how-to-replace-the-some-characters-from-the-end-of-a-string)
+- Stack Overflow to understand how the mod (%) works in Python (http://stackoverflow.com/questions/4432208/how-does-work-in-python) 
+- Python documentation to understand my options for manipulating strings (https://docs.python.org/2/library/stdtypes.html)
+- How to execute Mongo commands using shell scripts (http://stackoverflow.com/questions/4837673/how-to-execute-mongo-commands-through-shell-scripts)
+- Stack Overflow to learn how to parse the lat and lon out of the pos field in MongoDB (http://stackoverflow.com/questions/26762887/get-first-element-in-array-and-return-using-aggregate-mongodb)
+- Python String Formatting Cookbook for working out how to display numbers in this writeup (https://mkaz.github.io/2012/10/10/python-string-format/)
+- MongoDB documentation on Aggregation Pipeline Operators(https://docs.mongodb.org/v3.0/reference/operator/aggregation/)

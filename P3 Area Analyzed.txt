@@ -1,0 +1,6 @@
+P3 Area Analyzed
+
+I chose to analyze the metropolitan area of Miami, Florida, in the United States. This area stretches along the southeastern coast of the Florida peninsula from Homestead and Biscayne National Park in the South to Lake Okeechobee in the North, and from the Everglades National Park in the West to the Atlantic Ocean in the East. I chose this area because it includes the city where I live, Coral Gables.
+
+https://www.openstreetmap.org/relation/1216769
+https://s3.amazonaws.com/metro-extracts.mapzen.com/miami_florida.osm.bz2 
